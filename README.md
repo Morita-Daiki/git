@@ -4,6 +4,11 @@
 ## Write bin to Nucleo446
 1.connect nucleo to pc\
 2.copy [bin file](nucleo446re_64bit_led_code.bin) to nucleo device\
+
+
+https://user-images.githubusercontent.com/37872526/133706962-526c529a-6316-475f-88c9-43b97c9ff280.mp4
+
+
 3.acuire video by any ways\
 4.run the [matlab code](im64bit.mlx)
 
