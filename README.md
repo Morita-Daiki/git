@@ -1,5 +1,12 @@
 # matlab FPS measureing
 
+# How to use
+## Write bin to Nucleo446
+1.connect nucleo to pc\
+2.copy [bin file](nucleo446re_64bit_led_code.bin) to nucleo device\
+3.acuire video by any ways\
+4.run the [matlab code](im64bit.mlx)
+
 ## 座標選択
 座標選択時\
 ```mousemode=true```
